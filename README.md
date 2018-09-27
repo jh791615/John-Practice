@@ -1,2 +1,2 @@
-# John-Practice
-CS 3560 Practice Repo
+jh791615@ohio.edu
+John
